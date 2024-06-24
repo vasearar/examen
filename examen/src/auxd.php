@@ -218,7 +218,9 @@ btnLeft.addEventListener('click', (e) => {
 <!-- slider bazat pe schimbare de sursa -->
 
 const imageSources = [
-        'https://i.pinimg.com/736x/92/49/d4/9249d4fff5cdd8bfb4a07c9581198f8d.jpg',
+        'imaginea1.png',
+        'imaginea2.png',
+        'imaginea3.png',
     ];
 
 
